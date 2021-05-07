@@ -22,20 +22,20 @@
 /** Имя базы данных для WordPress */
 define( 'DB_NAME', 'coupon-hub' );
 
-/** Имя пользователя MySQL */ 
+/** Имя пользователя MySQL */
 define( 'DB_USER', 'root' );
 
-/** Пароль к базе данных MySQL */ 
+/** Пароль к базе данных MySQL */
 define( 'DB_PASSWORD', '' );
 
 /** Имя сервера MySQL */
-define( 'DB_HOST', 'localhost' ); 
+define( 'DB_HOST', 'localhost' );
 
 /** Кодировка базы данных для создания таблиц. */
 define( 'DB_CHARSET', 'utf8mb4' );
 
 /** Схема сопоставления. Не меняйте, если не уверены. */
-define( 'DB_COLLATE', '' ); s
+define( 'DB_COLLATE', '' );
 
 /**#@+
  * Уникальные ключи и соли для аутентификации.
