@@ -1,0 +1,28 @@
+[05-Mar-2020 11:08:11 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[23-Mar-2020 02:20:03 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[02-Apr-2020 13:37:52 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[05-Apr-2020 23:18:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[06-Apr-2020 12:56:05 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[06-Apr-2020 14:50:02 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18
+[14-Apr-2020 18:15:07 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class 'getid3_handler' not found in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/s47467/public_html/coupons-hub.com/wp-includes/ID3/module.audio.ac3.php on line 18

@@ -1,0 +1,6 @@
+[17-Jan-2020 13:05:20 UTC] PHP Warning:  include(/home2/s47467/public_html/coupons-hub.com/wp-content/themes/couponis/includes/title.php): failed to open stream: No such file or directory in /home2/s47467/public_html/coupons-hub.com/wp-content/themes/couponis/index.php on line 21
+[17-Jan-2020 13:05:20 UTC] PHP Warning:  include(): Failed opening '/home2/s47467/public_html/coupons-hub.com/wp-content/themes/couponis/includes/title.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home2/s47467/public_html/coupons-hub.com/wp-content/themes/couponis/index.php on line 21
+[22-Jan-2020 22:32:26 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/s47467/public_html/coupons-hub.com/wp-includes/class-wp-query.php on line 2203
+[22-Jan-2020 22:32:26 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/s47467/public_html/coupons-hub.com/wp-includes/canonical.php on line 231
+[10-Feb-2020 14:39:08 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/s47467/public_html/coupons-hub.com/wp-includes/class-wp-query.php on line 2203
+[10-Feb-2020 14:39:08 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/s47467/public_html/coupons-hub.com/wp-includes/canonical.php on line 231

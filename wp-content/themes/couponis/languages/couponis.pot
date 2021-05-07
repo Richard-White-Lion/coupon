@@ -1,0 +1,3520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Couponis\n"
+"POT-Creation-Date: 2019-07-29 09:21+0100\n"
+"PO-Revision-Date: 2019-07-29 09:21+0100\n"
+"Last-Translator: \n"
+"Language-Team: SpoonThemes <spoonthemes@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_;esc_attr_e;_n:1,2\n"
+"X-Poedit-SearchPath-0: c:\\wamp64\\www\\couponis\\wp-content\\themes\\couponis\n"
+"X-Poedit-SearchPath-1: c:\\wamp64\\www\\couponis\\wp-content\\plugins\\couponis-demo\n"
+"X-Poedit-SearchPath-2: c:\\wamp64\\www\\couponis\\wp-content\\plugins\\couponis-import\n"
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:51
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:81
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:153
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:497
+msgid "Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:52
+msgid "Coupon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:78
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:95
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:197
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:376
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:651
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:973
+msgid "Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:79
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:40
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:70
+msgid "Category"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:86
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:262
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:319
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:738
+msgid "Stores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:87
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:65
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:34
+msgid "Store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:103
+msgid "All "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:104
+msgid "Edit "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:105
+msgid "View "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:106
+msgid "Update "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:107
+msgid "Add New "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:108
+msgid "New "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:108
+msgid " Name"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:109
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:110
+msgid "Parent "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:110
+msgid ":"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:111
+msgid "Search "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:112
+msgid "Popular "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:113
+msgid "Separate "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:113
+msgid " with commas"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:114
+msgid "Add or remove "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:115
+msgid "Choose from the most used "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:116
+msgid "No "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-demo.php:116
+msgid " found"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:12
+msgid "Subscribe to have new coupon lists delivered directly to your inbox"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:16
+msgid "Input your email and hit enter..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:17
+msgid "Subscribe"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:22
+msgid "We do not send spam or share your mail with third parties"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:156
+msgid "Login To Your Account"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:164
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:217
+msgid "Username"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:170
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:231
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:139
+msgid "Password"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:178
+msgid "Remember Me"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:183
+msgid "Login"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:187
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:289
+msgid "Not A Memeber?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:190
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:251
+msgid "Lost Password?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:209
+msgid "Register Your Account"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:223
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:277
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:345
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:847
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:135
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:65
+msgid "Email"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:237
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:319
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:143
+msgid "Confirm Password"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:244
+msgid "Register"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:248
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:286
+msgid "Already A Memebr?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:270
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:305
+msgid "Recover Your Account"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:282
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:326
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1118
+msgid "Recover"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/couponis-footer.php:313
+msgid "New Password"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:92
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:98
+msgid "You have successfully subscribed."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:103
+msgid "API data are not yet set."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:107
+msgid "Couponis CPT is not set."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:111
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:133
+msgid "All fields are required."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:136
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1087
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1213
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1333
+msgid "E-mail address is not valid."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:141
+msgid "Name: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:142
+msgid "Email: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:143
+msgid "Message: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:150
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:153
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:173
+msgid "Expire Time"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:174
+msgid ""
+"Settings to time 00:00:00 means that coupon will expire at the start of the selected day while selection 23:59:59 means "
+"that it will be available until end of the day."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:181
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:152
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:465
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:568
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:625
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:693
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:780
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:445
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:90
+msgid "Coupon Type"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:184
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:449
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:94
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:24
+msgid "Online Code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:185
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:161
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:470
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:573
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:630
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:698
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:785
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:450
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:97
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:25
+msgid "In Store Code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:186
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:162
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:471
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:574
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:631
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:699
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:786
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:451
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:100
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:26
+msgid "Online Sale"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:193
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:32
+msgid "Is Exclusive"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:200
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupon-box/coupon-grid.php:20
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupon-box/top-meta.php:10
+msgid "Used"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:207
+msgid "Affiliate Link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:212
+msgid "Code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:217
+msgid "Coupon Link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:222
+msgid "Printable"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:228
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:16
+msgid "Coupon Details"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:368
+msgid "Export / Import Custom Data"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:424
+msgid "Import process finished"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:425
+msgid "Dismiss this notice."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:544
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:733
+msgid "online code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:545
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:734
+msgid "in store code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:546
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:735
+msgid "online sale"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:558
+msgid "exclusive"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:588
+msgid "GET CODE"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:591
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:821
+msgid "PRINT CODE"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:594
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:825
+msgid "GET DEAL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:805
+msgid "Code is coped, use it "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:805
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:806
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:25
+msgid "here"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:806
+msgid "Copy or write down code and use it "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:809
+msgid "Code is copied"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:810
+msgid "Copy or write down code above"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:813
+msgid "Click the code to auto copy"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:826
+msgid "Click button above to shop online and save"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:831
+msgid "Did it work?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:843
+msgid "SHOW INFORMATION"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:860
+msgid "Used by"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:865
+msgid "See all "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:865
+msgid " Coupons & Deals"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1026
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1082
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1169
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1208
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1328
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1417
+msgid "Fields marked with * are required."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1035
+msgid "Account is not activated yet."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1047
+msgid "You are logged in, wait a second."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1053
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1060
+msgid "Credentials are invalid."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1109
+#, php-format
+msgid ""
+"Someone requested password recovery for your account ( username: %s ). If you have not done this then ignore this mail."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1136
+msgid "Password Recovery"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1138
+msgid "Instructions are sent on provided mail."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1143
+msgid "Unrecognized email."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1174
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1218
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1351
+msgid "Passwords do not match."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1183
+msgid "Password is updated."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1223
+msgid "Email is already registered."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1228
+msgid "Username is already registered."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1255
+msgid "your account is created. Click on the button bellow to verify this email address."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1264
+msgid "Verify Email"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1282
+msgid "Account Registration"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1284
+msgid "Account is created, check your mail."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1309
+msgid "Hello"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1309
+msgid "Your account is activated now."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1371
+msgid "Your profile is updated."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1474
+msgid "Coupon is submited for review. Thank You!"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1597
+msgid "Ending Soon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1598
+msgid "Popular"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1599
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:97
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:708
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:795
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1015
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:147
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:62
+msgid "Name"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1600
+msgid "Date Added"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1630
+msgid "Grid View"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1631
+msgid "List View"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1706
+msgid "No stores found matching your criteria"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:1743
+msgid "Expired"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:2037
+msgid ""
+"Social Login is now part of the theme and can be accessed via Couponis WP -> Social Login. Your existing settings were "
+"transfered so no action is required. You can remove Social Connect plugin"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/functions.php:2049
+msgid "ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:9
+msgid "Icon:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:13
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:54
+msgid "Select icon for the category"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:17
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:58
+msgid "Hide From All Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:18
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:61
+msgid "Hide this categry from showing on all categories page"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:49
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:909
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:53
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:151
+msgid "Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:98
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:148
+msgid "Description"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:99
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:149
+msgid "Slug"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:100
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:960
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:150
+msgid "Posts"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/category-icon.php:101
+msgid "Icon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/cd-exp-imp.php:3
+msgid "Import / Export Custom Data From Theme"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/cd-exp-imp.php:6
+msgid "Click button bellow to get JSON export of your created fields which you can later import back using form bellow"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/cd-exp-imp.php:7
+msgid "Export"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/cd-exp-imp.php:17
+msgid "Paste JSON of your custom data and click on import button"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/cd-exp-imp.php:21
+msgid "Import"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupon-box/description.php:18
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupon-box/description.php:23
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-category.php:48
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-store.php:61
+msgid "Read More"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupon-box/description.php:19
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-category.php:49
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-store.php:62
+msgid "Show Less"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:7
+msgid "Search For"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:13
+msgid "ONLINE CODES"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:19
+msgid "STORE CODES"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:25
+msgid "ONLINE SALES"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:33
+msgid "Keyword"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:43
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:68
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:38
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:73
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:322
+msgid "- Select -"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/coupons-search-box.php:90
+msgid "SEARCH"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_blogs.php:58
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/single.php:53
+msgid "Written on "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_blogs.php:60
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/single.php:55
+msgid " in "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_blogs.php:62
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/single.php:57
+msgid " by "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_categories_carousel.php:16
+msgid "All Categories &raquo;"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_search_coupons.php:4
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:414
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_search.php:85
+msgid "Search Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_stores_carousel.php:22
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/kingcomposer/kc_stores_carousel_alt.php:21
+msgid "All Stores &raquo;"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/share.php:11
+msgid "Share on Facebook"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/share.php:12
+msgid "Share on Twitter"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/share.php:13
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/share.php:14
+msgid "Share on Tumblr"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:64
+msgid "Featured Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:65
+msgid "Select which coupons to display in slider"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:71
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:949
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:74
+msgid "Selected Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:75
+msgid "Filtered"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:77
+msgid "Select source of your featured coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:91
+msgid "Select coupons you wish to display"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:105
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:203
+msgid "Select categories you wish to display or leave empty to show all"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:109
+msgid "Strores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:119
+msgid "Select stores to filter coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:123
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:705
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:792
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1008
+msgid "Order By"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:130
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:859
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:914
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:125
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:199
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:276
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:337
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:383
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:439
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:507
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:565
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:616
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:677
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:711
+msgid "Title"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:131
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:709
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:796
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1016
+msgid "Date"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:132
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:711
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:798
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1018
+msgid "Random"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:134
+msgid "Select by which field to order coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:138
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:716
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:803
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1023
+msgid "Order"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:145
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:719
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:806
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1030
+msgid "Ascending"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:146
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:720
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:807
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1031
+msgid "Descending"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:148
+msgid "Select how to order coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:159
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:468
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:571
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:628
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:696
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:783
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:448
+msgid "All"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:160
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:469
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:572
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:629
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:697
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:784
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:282
+msgid "Online Codes"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:164
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:473
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:576
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:633
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:701
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:788
+msgid "Select type of coupo to show"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:168
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:433
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:491
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:536
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:593
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:661
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:748
+msgid "Number Of Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:174
+msgid "Input how many coupons to show. Default is 5"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:184
+msgid "Categories List"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:185
+msgid "Display categories with their icons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:191
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:364
+msgid "Number Of Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:193
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:366
+msgid "Input how many categories to show or leave empty"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:207
+msgid "Show Icons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:210
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:220
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:230
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:287
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:344
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:401
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:92
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:127
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:138
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:219
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:230
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:249
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:260
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:270
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:293
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:304
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:461
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:901
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:36
+msgid "Yes"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:211
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:221
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:231
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:288
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:345
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:402
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:93
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:128
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:139
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:220
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:231
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:248
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:259
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:271
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:294
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:305
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:460
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:900
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:35
+msgid "No"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:213
+msgid "Show or hide category icons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:217
+msgid "Show Count"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:223
+msgid "Show or hide category count"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:227
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:284
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:341
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:398
+msgid "Hide Empty"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:233
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:404
+msgid "Allow categories without coupons to be displayed"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:243
+msgid "Carousel Stores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:244
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:301
+msgid "Display stores in carousel"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:250
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:307
+msgid "Number Of Stores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:252
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:309
+msgid "Input how many stores to show or leave empty"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:256
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:313
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:370
+msgid "Block Title"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:258
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:315
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:372
+msgid "Input title or leave empty to disable ( All Stores link will also be gone )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:268
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:325
+msgid "Select stores you wish to display or leave empty to show all"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:272
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:329
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:386
+msgid "Visible Items"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:280
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:337
+msgid "Input how many stores to be visible"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:290
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:347
+msgid "Allow stores without coupons to be displayed"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:300
+msgid "Carousel Stores Alt"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:357
+msgid "Carousel Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:358
+msgid "Display categories in carousel"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:382
+msgid "Select categories wish to display or leave empty to show all"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:394
+msgid "Input how many categories to be visible"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:415
+msgid "Display form for searching coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:426
+msgid "Latest Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:427
+msgid "Display latest coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:435
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:493
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:538
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:595
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:663
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:750
+msgid "Input how many coupons to display"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:439
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:497
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:542
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:599
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:667
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:754
+msgid "Style"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:443
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:501
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:546
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:603
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:671
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:758
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:161
+msgid "List"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:444
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:502
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:547
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:604
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:672
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:759
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:162
+msgid "Grid"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:446
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:504
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:549
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:606
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:674
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:761
+msgid "Select type of coupon listing"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:454
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:512
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:557
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:614
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:682
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:769
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1036
+msgid "Number Of Coupons In Row"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:461
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:519
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:564
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:621
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:689
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:776
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1043
+msgid "Input how many coupons to display in one row"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:484
+msgid "Exclusive Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:485
+msgid "Display exclusive coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:529
+msgid "Ending Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:530
+msgid "Display ending coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:586
+msgid "Popular Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:587
+msgid "Display popular coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:644
+msgid "Coupons By Category"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:645
+msgid "Display coupons filtered by category"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:657
+msgid "Select categories from which to show the coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:710
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:797
+msgid "Expire"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:731
+msgid "Coupons By Store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:732
+msgid "Display coupons filtered by store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:744
+msgid "Select stores from which to show the coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:818
+msgid "White Block Content"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:819
+msgid "Display content in white block"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:826
+msgid "Content"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:837
+msgid "Service"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:838
+msgid "Display service"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:844
+msgid "Select Icon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:849
+msgid "Icon BG Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:854
+msgid "Icon Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:864
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:924
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:343
+msgid "Link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:869
+msgid "Subtitle"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:874
+msgid "Service Style"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:877
+msgid "Vertical"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:878
+msgid "Horizontal"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:879
+msgid "Horizontal With Icon Right"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:890
+msgid "Simple Slider"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:891
+msgid "Slider with images only"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:897
+msgid "Image Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:903
+msgid "Slides"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:905
+msgid "Add new slide"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:919
+msgid "Subitle"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:929
+msgid "Link Text"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:942
+msgid "Blogs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:943
+msgid "Display blogs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:952
+msgid "Latest"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:953
+msgid "Select Posts"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:954
+msgid "From Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:955
+msgid "With Tags"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:986
+msgid "Tags"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:999
+msgid "Number Of Posts"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/shortcodes.php:1017
+msgid "Post ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:11
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:20
+msgid "VOTE"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:11
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:20
+msgid "VOTES"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:16
+msgid "SUCCESS"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:30
+msgid "Expires in"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:31
+msgid "Day"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:31
+msgid "Days"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:48
+msgid "Share This Coupon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/single-coupon-sidebar.php:91
+msgid "More Coupons Like This"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:14
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:377
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:910
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:205
+msgid "Facebook"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:18
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:395
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:916
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:210
+msgid "Twitter"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:22
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:413
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:922
+msgid "Google"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:76
+msgid "Sign In With"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:187
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:260
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:371
+msgid "Could not retrieve user data"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:191
+msgid "Could not generate access_token"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:229
+msgid "Could not generate oauth_token since credentials are invalid"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:264
+msgid "Could not generate oauth_token_secret since credentials are invalid"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:269
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:379
+msgid "Login error"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/social-login.class.php:375
+msgid "Could not retrieve access_token"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:9
+msgid "Image:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:13
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:64
+msgid "Select Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:14
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:65
+msgid "Select image for the store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:17
+msgid "Store URL:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:19
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:72
+msgid "Input URL of the store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:22
+msgid "Store Locations:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:24
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:89
+msgid "Input location of the store in form LATITUDE,LONGITUDE"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:25
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:90
+msgid "Add New Marker"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:69
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:56
+msgid "Store URL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/store-image.php:76
+msgid "Store Locations"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:76
+msgid "Overall"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:78
+msgid "This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:84
+msgid "Site Logo"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:85
+msgid "Upload site logo"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:95
+msgid "Sticky Menu"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:96
+msgid "Enable or disable sticky menu"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:103
+msgid "LTR"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:104
+msgid "RTL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:106
+msgid "Choose Site Content Direction"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:107
+msgid "Choose overall website text direction which can be RTL (right to left) or LTR (left to right)."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:114
+msgid "Custom CSS"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:115
+msgid "Here you can add custom CSS."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:120
+msgid "Google Ads Code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:121
+msgid ""
+"Input your google ads code. This can be used in header ( see option bellow ) and it will also be available as widget in "
+"Appearance -> Widgets"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:130
+msgid "Display Ads In Header"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:131
+msgid "Enable or disable display of ads in header"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:141
+msgid "Enable Share"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:142
+msgid "Enable or disable share"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:155
+msgid "Coupon settings."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:164
+msgid "Coupon Listing Type"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:165
+msgid "Select style of the coupon boxes in listings"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:172
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:57
+msgid "Store Logo"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:173
+msgid "Featured Logo"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:175
+msgid "Coupon Listing Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:176
+msgid "Select which image to show on coupon listing ( If featured is selected and there is no any store logo will be used )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:182
+msgid "Coupons Per Page"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:183
+msgid "Input how mny coupons per page to display on lsiting"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:189
+msgid "Expired Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:190
+msgid "Select iamge which will be added as expired stamp over coupon box once it is expired"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:197
+msgid "Hide"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:198
+msgid "Show"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:200
+msgid "Hide Empty Stores & Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:201
+msgid "Enable or disable display of empty categories and stores on their listing"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:208
+msgid "Right Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:209
+msgid "Left Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:211
+msgid "Coupon Single Sidebar Position"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:212
+msgid "Select location of the sidebar on coupon single pages"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:222
+msgid "Show Similar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:223
+msgid "Show or hide similar coupons on single coupon pages"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:233
+msgid "Show Time On Boxes"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:234
+msgid "Show or hide time of expiration on coupon boxes"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:240
+msgid "Number Of Similar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:241
+msgid "How many similar coupons to display"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:251
+msgid "Delete Coupon Images"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:252
+msgid ""
+"On coupon delete delete also featured and printable images ( If multiple coupons use same images it will make images "
+"unavailable to other coupons if this options is set to Yes )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:262
+msgid "Delete Store Images"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:263
+msgid ""
+"On store delete delete also featured and printable images. ( If multiple stores use same image it will make image "
+"unavailable to other stores if this options is set to Yes )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:273
+msgid "Can Users Submit Coupons?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:274
+msgid "Enable or disable submitting of coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:283
+msgid "Store Codes"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:284
+msgid "Online Sales"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:286
+msgid "Coupon Types"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:287
+msgid "Select which coupon types to display or leave empty to display them all"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:296
+msgid "AJAX Taxonomy"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:297
+msgid "Enable or disable ajax category/store selection"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:307
+msgid "Coupon Single"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:308
+msgid "Enable or disable coupon single pages"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:315
+msgid "Slugs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:318
+msgid ""
+"Change slugs. After changes done here you must go Settings -> Permalinks and rese them ( just click Save Changes button )."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:323
+msgid "Coupon Slug"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:324
+msgid "Input slug you want to use for the coupon single page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:330
+msgid "Coupons Category Slug"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:331
+msgid "Input slug you want to use for the coupon categories."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:337
+msgid "Coupons Stores Slug"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:338
+msgid "Input slug you want to use for the coupon stores."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:347
+msgid "Email settings"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:352
+msgid "Sender Name"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:353
+msgid "Set sender name of emails for register, recover,..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:358
+msgid "Sender Email"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:359
+msgid "Set sender email of emails for register, recover,..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:370
+msgid "Social Login"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:372
+msgid "Social login options."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:378
+msgid "Register your application on https://developers.facebook.com/apps/"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:378
+#, php-format
+msgid "Callback URL: %sindex.php?couponis-callback=facebook"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:383
+msgid "Facebook App ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:384
+msgid "Input facebook application ID."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:389
+msgid "Facebook App Secret"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:390
+msgid "Input facebook application secret."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:396
+msgid "Register your application on https://apps.twitter.com/"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:396
+#, php-format
+msgid "Callback URL: %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:401
+msgid "Twitter Consumer Key (API Key)"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:402
+msgid "Input twitter application ID."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:407
+msgid "Twitter Consumer Secret (API Secret)"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:408
+msgid "Input twitter application secret."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:414
+msgid "Register your application on https://console.developers.google.com/project"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:414
+msgid "Application Type: Web Application"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:414
+msgid "Authorized JavaScript origins: <YOUR SITE DOMAIN>"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:414
+#, php-format
+msgid "Callback URL: %sindex.php?couponis-callback=google"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:419
+msgid "Google Client ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:420
+msgid "Input google client ID."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:425
+msgid "Google Client Secret"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:426
+msgid "Input google client secret."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:437
+msgid "Subscription"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:439
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:445
+msgid "API Key"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:446
+msgid "Type your mail chimp api key."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:452
+msgid "List ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:453
+msgid "Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:463
+msgid "Double Opt-In"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:464
+msgid "If it is set to yes then user will first receive confirmation mail in order to give their consent."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:473
+msgid "Appearance"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:475
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:500
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:589
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:622
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:806
+msgid "Set up the looks."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:480
+msgid "Select Main Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:481
+msgid "Select main color of the site."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:488
+msgid "Select Font Main Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:489
+msgid "Select font color for the elements which have main collor as their background."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:505
+msgid "Sale Badge Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:506
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:522
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:538
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:554
+msgid "Select background color of the sale badges."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:513
+msgid "Sale Badge Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:514
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:530
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:546
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:562
+msgid "Select font color of the sale badges."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:521
+msgid "Exclusive Badge Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:529
+msgid "Exclusive Badge Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:537
+msgid "Online Badge Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:545
+msgid "Online Badge Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:553
+msgid "In Store Badge Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:561
+msgid "In Store Badge Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:569
+msgid "Action Button Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:570
+msgid "Select background color of the action button."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:577
+msgid "Action Badge Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:578
+msgid "Select font color of the action button."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:586
+msgid "Header"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:594
+msgid "Header Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:595
+msgid "Select background color of the header section."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:602
+msgid "Header Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:603
+msgid "Select font color of the header categories."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:610
+msgid "Header Font Color Active"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:611
+msgid "Select font color of the header categories on hover."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:619
+msgid "Typography"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:627
+msgid "Navigation Font"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:628
+msgid "Select navigation font."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:636
+msgid "Navigation Font Weight"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:637
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:659
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:688
+msgid "Input weight of the font ( 300, 400, 500, 600, 700, 900 )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:643
+msgid "Navigation Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:644
+msgid "Input font size for the navigation text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:650
+msgid "Text Font"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:651
+msgid "Select font for the regular text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:658
+msgid "Text Font Weight"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:665
+msgid "Text Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:666
+msgid "Input font size for the regular text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:672
+msgid "Text Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:673
+msgid "Input font line height for the regular text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:679
+msgid "Title Font"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:680
+msgid "Select font for the title text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:687
+msgid "Title Font Weight"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:694
+msgid "Heading 1 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:695
+msgid "Input font size for the heading 1."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:701
+msgid "Heading 1 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:702
+msgid "Input font line height for the heading 1."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:708
+msgid "Heading 2 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:709
+msgid "Input font size for the heading 2."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:715
+msgid "Heading 2 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:716
+msgid "Input font line height for the heading 2."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:722
+msgid "Heading 3 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:723
+msgid "Input font size for the heading 3."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:729
+msgid "Heading 3 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:730
+msgid "Input font line height for the heading 3."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:736
+msgid "Heading 4 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:737
+msgid "Input font size for the heading 4."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:743
+msgid "Heading 4 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:744
+msgid "Input font line height for the heading 4."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:750
+msgid "Heading 5 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:751
+msgid "Input font size for the heading 5."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:757
+msgid "Heading 5 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:758
+msgid "Input font line height for the heading 5."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:764
+msgid "Heading 6 Font Size"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:765
+msgid "Input font size for the heading 6."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:771
+msgid "Heading 6 Font Line Height"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:772
+msgid "Input font line height for the heading 6."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:778
+msgid "Title Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:779
+msgid "Select font color for the titles."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:786
+msgid "Link Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:787
+msgid "Select link color."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:794
+msgid "Text Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:795
+msgid "Select font color for the text."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:803
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:958
+msgid "Copyrights"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:811
+msgid "Background Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:812
+msgid "Select background color for the copyrights section."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:819
+msgid "Font Color"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:820
+msgid "Select font color for the copyrights section."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:827
+msgid "Link Font Color On Hover"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:828
+msgid "Select font color for the copyrights links."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:840
+msgid "Contact Page"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:842
+msgid "Contact page settings."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:848
+msgid "Input email where the messages should arive."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:853
+msgid "Markers"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:854
+msgid "Input markers for contact page in form LATITUDE,LONGITUDE."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:859
+msgid "Marker Icon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:860
+msgid "Select marker icon for the contact page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:865
+msgid "Markers Max Zoom"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:866
+msgid "Markers max zoom 0 - 19."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:871
+msgid "Google API Key"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:872
+msgid "Input google API key"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:880
+msgid "Agreement Text"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:881
+msgid "Input text of the agreement"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:892
+msgid "Footer"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:894
+msgid "Footer settings."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:903
+msgid "Show Subscribe"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:904
+msgid "Show or hide subscribe section in footer."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:911
+msgid "Input link to your facebook page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:917
+msgid "Input link to your twitter page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:923
+msgid "Input link to your google page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:928
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:230
+msgid "YouTube"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:929
+msgid "Input link to your youtube page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:934
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:220
+msgid "Linkedin"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:935
+msgid "Input link to your linkedin page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:940
+msgid "Tumblr"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:941
+msgid "Input link to your tumbl page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:946
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:225
+msgid "Pinterest"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:947
+msgid "Input link to your pinterest page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:952
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:235
+msgid "Instagram"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:953
+msgid "Input link to your instagram page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:959
+msgid "Input copyrights which will be visible at the bottom of the page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:986
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/theme-options.php:987
+msgid "Couponis WP"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/title.php:9
+msgid "Category: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/title.php:13
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:849
+msgid "Search by tag: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/title.php:16
+msgid "Posts by: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/title.php:19
+msgid "Archive for: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/title.php:22
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:858
+msgid "Search results for: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:120
+msgid "Couponis Recent Posts"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:121
+msgid "Display recent posts"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:131
+msgid "Number"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:172
+msgid "0"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:172
+msgid "1"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:172
+msgid "%"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:194
+msgid "Couponis Social Follow"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:195
+msgid "Adds list of the social icons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:215
+msgid "Google+"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:271
+msgid "Couponis Subscribe"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:272
+msgid "Adds subscribe form in the sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:293
+msgid "Receive best valued coupons on your mailbox"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:319
+msgid "Title:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:332
+msgid "Couponis Image Banner"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:333
+msgid "Add image with link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:348
+msgid "Image ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:378
+msgid "Couponis Coupons By ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:379
+msgid "List of coupons by ID"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:389
+msgid "Coupon IDs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:434
+msgid "Couponis Latest Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:435
+msgid "List of latest coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:456
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:513
+msgid "Coupons Number"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:502
+msgid "Couponis Exclusive Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:503
+msgid "List of exclusive coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:560
+msgid "Couponis Store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:561
+msgid "List of coupon stores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:571
+msgid "Store IDs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:573
+msgid "Input comma separated list of store IDs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:611
+msgid "Couponis Categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:612
+msgid "List of coupon categories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:622
+msgid "Category IDs"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:624
+msgid "Input comma separated list of category IDs or leave empty to display all"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:672
+msgid "Couponis Search"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:673
+msgid "Search for coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:706
+msgid "Couponis Google Ads"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/includes/widgets.php:707
+msgid ""
+"Print code set in Couponis WP -> Overall -> Google Ads Code ( For different Google Ad code use Custom HTML widget instead )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:30
+msgid "Saved Coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:35
+msgid "Saved Stores"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:40
+msgid "Profile"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:69
+msgid "You do not have any coupons saved"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:123
+msgid "You do not have any stores saved"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_account.php:148
+msgid "Update Profile"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_contact.php:37
+msgid "Your Name"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_contact.php:41
+msgid "Your Email"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_contact.php:45
+msgid "Message Subject"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_contact.php:49
+msgid "Message"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_contact.php:62
+msgid "Send Message"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_search.php:100
+msgid "Found"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_search.php:100
+msgid "coupon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_search.php:100
+msgid "coupons"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_search.php:139
+msgid "No coupons found matching your search criteria"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_stores_alt.php:31
+msgid "LOAD ALL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_stores_alt.php:52
+msgid "Search for store..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_stores_alt.php:59
+msgid "Search resuls"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:51
+msgid "Store Name"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:55
+msgid "Store Link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:63
+msgid "Can't Find A Store?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:110
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:45
+msgid "Coupon Code"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:116
+msgid "Coupon Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:122
+msgid "Sale Link"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:133
+msgid "Featured Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:140
+msgid "Expire Date"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:145
+msgid "I do not know expire date"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:154
+msgid "Coupon Title"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:163
+msgid "Is Exclusive?"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:170
+msgid "Coupon Description"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/page-tpl_submit.php:175
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:86
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:108
+msgid "Submit Coupon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:42
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:43
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:67
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:72
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:266
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/parsers.php:455
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:212
+msgid "Demo already imported"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:232
+msgid "Import Again"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:236
+msgid "Import Demo Data"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:553
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:575
+msgid "Site does not support widget"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:598
+msgid "Widget already exists"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:647
+msgid "Imported"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:650
+msgid "Imported to Inactive"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/radium-importer.php:657
+msgid "No Title"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:132
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:141
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:192
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:196
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:205
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:133
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:176
+msgid "All done."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:176
+msgid "Have fun!"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:177
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:197
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:213
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:238
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:264
+msgid "Assign Authors"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:265
+msgid ""
+"To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item "
+"to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:267
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set "
+"as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:277
+msgid "Import Attachments"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:280
+msgid "Download and import file attachments"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:284
+msgid "Submit"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:297
+msgid "Import author:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:308
+msgid "or create new user with login name:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:311
+msgid "as a new user:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:319
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:321
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:372
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:467
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:516
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:738
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:605
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:642
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:704
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:869
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:876
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:941
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:954
+msgid "Invalid file type"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:998
+msgid "Remote server did not respond"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1004
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1011
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1017
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1116
+msgid "Import WordPress"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1123
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1138
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, "
+"categories, and tags into this site."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1139
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/radium-one-click-demo-install/importer/wordpress-importer.php:1256
+msgid "Import <strong>posts, pages, comments, custom fields, categories, and tags</strong> from a WordPress export file."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-category.php:96
+msgid "No coupons in this category"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-category.php:118
+msgid "Subacategories"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-store.php:74
+msgid "Visit Store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-demo/taxonomy-coupon-store.php:133
+msgid "No coupons in this store"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:17
+msgid ""
+"All fields for importing coupon are located in this section and you do not need to set anything in the Custom Fields "
+"section regarding coupons. All required fields are marked with *"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:21
+msgid "Coupon Type (In database - coupon/deal) *"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:40
+msgid "Coupon Expire"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:42
+msgid "Coupon Data *"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:43
+msgid "Prinateble Coupon Image"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:46
+msgid "Coupon URL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:47
+msgid "Coupon Affiliate URL"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:50
+msgid "Coupon Featured Image ( Patch for WP All Import Free Version )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:51
+msgid "Coupon Featured Image Alt Text ( Patch for WP All Import Free Version )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:54
+msgid "Store Details"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:55
+msgid "This import assumes that each coupon has only one store associated to it"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:58
+msgid "Store Logo Image Alt Text"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:59
+msgid "Store Description"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:67
+msgid "Couponis recommends that you install WP All Import In order to use import functionality"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:146
+msgid "Couponis - missing coupon type, skipping this coupon"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:184
+msgid "Couponis - saved store meta"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\plugins\couponis-import/couponis-import.php:187
+msgid "Couponis - coupon does not have stores, skipping"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/404.php:11
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:10
+msgid "1 Comment"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:10
+msgid "% Comments"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:40
+msgid "Comment page: "
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:52
+msgid "Leave Comment"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:58
+msgid "Send Comment"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:68
+msgid "Website"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:73
+msgid "Comment"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/comments.php:75
+msgid "or cancel reply"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:24
+msgid "Create Google map API key like it is explained"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:26
+msgid "and place it in Couponis WP -> Contact Page -> Google API Key"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:37
+msgid "Reinstall Couponis Import plugin ( Delete it and theme will offer you to install it again )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:48
+msgid "Reinstall Couponis Demo plugin ( Delete it and theme will offer you to install it again )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:59
+msgid "Reinstall Smeta plugin ( Delete it and theme will offer you to install it again )"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:79
+msgid "Redux Framework"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:88
+msgid "King Composer"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:97
+msgid "SMeta"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:107
+msgid "Couponis Demo"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:117
+msgid "Couponis Import"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:279
+msgid "Main Navigation"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:280
+msgid "Footer Navigation"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:429
+msgid "Done"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:430
+msgid "Now"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:742
+msgid "@"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:751
+msgid "Reply"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:765
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:831
+msgid "Home"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:839
+msgid "Blog"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:846
+msgid "404"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:852
+msgid "Posts by"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:855
+msgid "Archive for:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:885
+msgid "Blog Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:887
+msgid "Appears on the eight side of all pages."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:890
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:892
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:895
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:897
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:900
+msgid "Search Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:902
+msgid "Appears on the left side of the search page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:905
+msgid "Category Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:907
+msgid "Appears on the right side of the category taxonomy page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:910
+msgid "Store Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:912
+msgid "Appears on the right side of the store taxonomy page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:915
+msgid "Account Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:917
+msgid "Appears on the right side of the account page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:920
+msgid "Submit Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:922
+msgid "Appears on the right side of the submit page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:925
+msgid "Single Coupon Sidebar"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/functions.php:927
+msgid "Appears on the right side of the single coupon page."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:41
+msgid "I want coupons for..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:42
+msgid "Search"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:94
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:116
+msgid "My Account"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/header.php:99
+msgid "Logout"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:393
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:912
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2618
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:394
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:395
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:1019
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:1019
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:1022
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:1022
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3594
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3594
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3600
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/index.php:55
+msgid "Written on"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/index.php:55
+msgid "in"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/index.php:61
+msgid "Continue reading"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/index.php:74
+msgid "No posts found matching your search criteria"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/searchform.php:3
+msgid "Search for..."
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/single.php:15
+msgid "&raquo;"
+msgstr ""
+
+#: c:\wamp64\www\couponis\wp-content\themes\couponis/single.php:16
+msgid "&laquo;"
+msgstr ""

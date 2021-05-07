@@ -1,0 +1,449 @@
+# Translation of Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-16 23:15:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Site Kit by Google &#8211; Analytics, Search Console, AdSense, Speed - Stable (latest release)\n"
+
+#: includes/Core/Authentication/Authentication.php:947
+msgid "Click here"
+msgstr "Щёлкните здесь"
+
+#: includes/Core/Authentication/Authentication.php:943
+msgid "You need to reauthenticate your Google account."
+msgstr "Вам необходимо повторно подключить свою учетную запись Google."
+
+#. translators: %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client.php:935
+msgid "Unknown Error (code: %s)."
+msgstr "Неизвестная ошибка (код: %s)."
+
+#: includes/Modules/Analytics.php:213 includes/Modules/Tag_Manager.php:188
+#: includes/Modules/AdSense.php:166 includes/Modules/Analytics_4.php:156
+msgid "Yes"
+msgstr "Да"
+
+#: includes/Core/Modules/Modules.php:903
+msgid "Description of the module."
+msgstr "Описание модуля."
+
+#: includes/Core/Modules/Modules.php:898
+msgid "Name of the module."
+msgstr "Название модуля."
+
+#: includes/Core/Modules/Modules.php:815
+msgid "Data to set."
+msgstr "Данные для установки."
+
+#: includes/Core/Modules/Modules.php:668 includes/Core/Modules/Modules.php:709
+#: includes/Core/Modules/Modules.php:769 includes/Core/Modules/Modules.php:827
+#: includes/Core/Modules/Modules.php:893
+msgid "Identifier for the module."
+msgstr "Идентификатор для модуля."
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr "https://opensource.google.com"
+
+#. Author of the plugin
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin
+msgid "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+msgstr "Site Kit - это универсальное решение, позволяющее пользователям WordPress использовать все, что может предложить Google, для того, чтобы сделать их успешными в Интернете."
+
+#. Plugin URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr "https://sitekit.withgoogle.com"
+
+#. Plugin Name of the plugin
+#: includes/Core/Admin/Screen.php:87 includes/Core/Util/Debug_Data.php:107
+msgid "Site Kit by Google"
+msgstr "Site Kit от Google"
+
+#: includes/Modules/PageSpeed_Insights.php:169
+msgid "https://developers.google.com/speed/pagespeed/insights/"
+msgstr "https://developers.google.com/speed/pagespeed/insights/"
+
+#: includes/Modules/PageSpeed_Insights.php:167
+msgid "Learn more about your website’s performance."
+msgstr "Узнайте больше о производительности вашего сайта."
+
+#: includes/Modules/PageSpeed_Insights.php:166
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:32
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.8229bd0b28e105122a28.js:13
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.8229bd0b28e105122a28.js:28
+#: dist/assets/js/googlesitekit-user-input.f2cc113f12bd75a1e661.js:32
+#: dist/assets/js/googlesitekit-dashboard-details.8443183f4edfa336e997.js:32
+#: dist/assets/js/googlesitekit-dashboard.06749078f3c5fbbbb4fd.js:32
+#: dist/assets/js/googlesitekit-module.6c790fa9dd5cfc70c562.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.3fa2035007ae361db811.js:32
+#: dist/assets/js/googlesitekit-modules-adsense.3f9b24123c8be7521cd2.js:74
+#: dist/assets/js/googlesitekit-adminbar.0e541901a67bc19c0941.js:32
+msgid "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA."
+msgstr "Google PageSpeed Insights предоставляет вам метрики о производительности, доступности, SEO и PWA."
+
+#. translators: 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/PageSpeed_Insights.php:99
+#: includes/Modules/Tag_Manager.php:281
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr "Параметр запроса %1$s не входит в список %2$s"
+
+#: includes/Modules/Search_Console.php:482
+msgid "https://search.google.com/search-console"
+msgstr "https://search.google.com/search-console"
+
+#: includes/Modules/Search_Console.php:480
+msgid "Connect your site to Google Search Console."
+msgstr "Подключите ваш сайт к Google Search Console."
+
+#: includes/Modules/Analytics.php:213 includes/Modules/Tag_Manager.php:188
+#: includes/Modules/AdSense.php:166 includes/Modules/Analytics_4.php:156
+#: includes/Core/Util/Debug_Data.php:209
+msgid "No"
+msgstr "Нет"
+
+#: google-site-kit.php:47
+msgid "Error Activating"
+msgstr "Ошибка активации"
+
+#: includes/Core/Admin/Screen.php:129
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:5
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:115
+#: dist/assets/js/googlesitekit-user-input.f2cc113f12bd75a1e661.js:5
+#: dist/assets/js/googlesitekit-user-input.f2cc113f12bd75a1e661.js:115
+#: dist/assets/js/googlesitekit-dashboard-details.8443183f4edfa336e997.js:5
+#: dist/assets/js/googlesitekit-dashboard-details.8443183f4edfa336e997.js:115
+#: dist/assets/js/googlesitekit-dashboard.06749078f3c5fbbbb4fd.js:5
+#: dist/assets/js/googlesitekit-dashboard.06749078f3c5fbbbb4fd.js:115
+#: dist/assets/js/googlesitekit-module.6c790fa9dd5cfc70c562.js:5
+#: dist/assets/js/googlesitekit-module.6c790fa9dd5cfc70c562.js:115
+#: dist/assets/js/googlesitekit-wp-dashboard.3fa2035007ae361db811.js:5
+#: dist/assets/js/googlesitekit-dashboard-splash.34d2dd94f56e4f001196.js:5
+#: dist/assets/js/googlesitekit-modules-adsense.3f9b24123c8be7521cd2.js:35
+#: dist/assets/js/googlesitekit-adminbar.0e541901a67bc19c0941.js:5
+#: dist/assets/js/googlesitekit-activation.cbbc3d322ea8198edf38.js:5
+msgid "Site Kit"
+msgstr "Site Kit"
+
+#: includes/Plugin.php:78
+msgid "The Site Kit by Google plugin is <strong>not yet compatible</strong> for use in a WordPress multisite network, but we&#8217;re actively working on that."
+msgstr "Плагин Site Kit от Google <strong>ещё не совместим</strong> с WordPress в режиме мультисайта, но мы активно работаем над этим."
+
+#: includes/Modules/Tag_Manager.php:534
+msgid "Tag Manager creates an easy to manage way to create tags on your site without updating code."
+msgstr "Диспетчер тегов позволяет легко создавать и управлять тегами на вашем сайте без изменений в коде."
+
+#: includes/Core/Modules/Module.php:794
+msgid "https://about.google/intl/en/"
+msgstr "https://about.google/intl/ru/"
+
+#: includes/Core/Modules/Module.php:793
+msgid "https://www.google.com"
+msgstr "https://www.google.ru/"
+
+#: includes/Core/Admin/Screens.php:324
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:116
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/Core/Admin/Screens.php:281 includes/Core/Admin/Screens.php:344
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: includes/Modules/Analytics.php:982 includes/Modules/Analytics_4.php:318
+msgid "https://marketingplatform.google.com/about/analytics/"
+msgstr "https://marketingplatform.google.com/about/analytics/"
+
+#. translators: %s: module name
+#. translators: %s: Module name
+#: includes/Core/Modules/Module.php:809
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:34
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.8229bd0b28e105122a28.js:30
+#: dist/assets/js/googlesitekit-user-input.f2cc113f12bd75a1e661.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.8443183f4edfa336e997.js:34
+#: dist/assets/js/googlesitekit-dashboard.06749078f3c5fbbbb4fd.js:34
+#: dist/assets/js/googlesitekit-module.6c790fa9dd5cfc70c562.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.3fa2035007ae361db811.js:34
+#: dist/assets/js/googlesitekit-modules-adsense.3f9b24123c8be7521cd2.js:76
+#: dist/assets/js/googlesitekit-adminbar.0e541901a67bc19c0941.js:34
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: includes/Modules/Tag_Manager.php:537
+msgid "https://tagmanager.google.com/"
+msgstr "https://tagmanager.google.com/"
+
+#: includes/Modules/PageSpeed_Insights.php:170
+msgid "https://developers.google.com/speed/docs/insights/v5/about"
+msgstr "https://developers.google.com/speed/docs/insights/v5/about"
+
+#: includes/Modules/Tag_Manager.php:538
+msgid "https://marketingplatform.google.com/about/tag-manager/"
+msgstr "https://marketingplatform.google.com/about/tag-manager/"
+
+#: includes/Modules/AdSense.php:575
+msgid "https://www.google.com/intl/en_us/adsense/start/"
+msgstr "https://www.google.com/intl/ru_ru/adsense/start/"
+
+#: includes/Modules/Optimize.php:188
+msgid "https://optimize.google.com/optimize/home/"
+msgstr "https://optimize.google.com/optimize/home/"
+
+#: includes/Modules/Optimize.php:189
+msgid "https://marketingplatform.google.com/about/optimize/"
+msgstr "https://marketingplatform.google.com/about/optimize/"
+
+#: includes/Modules/Site_Verification.php:354
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr "https://www.google.com/webmasters/verification/home"
+
+#: includes/Modules/Site_Verification.php:355
+msgid "https://developers.google.com/site-verification/"
+msgstr "https://developers.google.com/site-verification/"
+
+#: includes/Modules/Analytics.php:981 includes/Modules/Analytics_4.php:317
+msgid "https://analytics.google.com/analytics/web"
+msgstr "https://analytics.google.com/analytics/web"
+
+#: includes/Modules/AdSense.php:319
+msgid "Go to AdSense"
+msgstr "Перейти к AdSense"
+
+#: includes/Modules/AdSense.php:516
+msgid "AdSense account ID not set."
+msgstr "Не задан ID аккаунта AdSense."
+
+#: includes/Modules/AdSense.php:572
+msgid "Monetize Your Site."
+msgstr "Монетизируйте ваш сайт."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:932
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr "Невозможно получить доступ: тип разрешения не поддерживается."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:930
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr "Невозможно получить доступ: клиент не авторизован."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:912
+msgid "Unable to receive access token because of an invalid client."
+msgstr "Невозможно получить доступ: клиент неправильный."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:908
+msgid "Unable to receive access token because of an unknown error."
+msgstr "Невозможно получить доступ из-за неизвестной ошибки."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:910
+msgid "Internal error that the Google login redirect failed."
+msgstr "Внутренняя ошибка: переадресация в Google не сработала."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:916
+msgid "Unable to receive access token because of an invalid authorization code or refresh token."
+msgstr "Невозможно получить токен для доступа: клиент не авторизован."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:918
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr "Невозможно получить токен для доступа из-за ошибки в OAuth запросе."
+
+#: includes/Modules/Site_Verification.php:174
+msgid "Unknown user."
+msgstr "Неизвестный пользователь."
+
+#: includes/Modules/Optimize.php:186
+msgid "Increase your CTR."
+msgstr "Увеличьте ваш CTR."
+
+#. translators: 1: selected stat label, 2: numeric value of selected stat, 3:
+#. up or down arrow , 4: different change in percentage
+#: includes/Modules/Analytics.php:424
+#: dist/assets/js/googlesitekit-settings.b4bea2f657c1c2e39331.js:5
+#: dist/assets/js/googlesitekit-user-input.f2cc113f12bd75a1e661.js:5
+#: dist/assets/js/googlesitekit-modules-tagmanager.e44f1c0051431d60d8db.js:9
+#: dist/assets/js/googlesitekit-dashboard-details.8443183f4edfa336e997.js:5
+#: dist/assets/js/googlesitekit-dashboard.06749078f3c5fbbbb4fd.js:5
+#: dist/assets/js/googlesitekit-modules-analytics.21cccbf49d612a857219.js:19
+#: dist/assets/js/googlesitekit-module.6c790fa9dd5cfc70c562.js:5
+#: dist/assets/js/googlesitekit-wp-dashboard.3fa2035007ae361db811.js:5
+#: dist/assets/js/googlesitekit-modules-adsense.3f9b24123c8be7521cd2.js:27
+#: dist/assets/js/googlesitekit-adminbar.0e541901a67bc19c0941.js:5
+msgid "Analytics module needs to be configured."
+msgstr "Модуль Google Аналитики должен быть настроен."
+
+#: includes/Core/Modules/Modules.php:923
+msgid "Whether the module setup has been completed."
+msgstr "Была ли завершена установка модуля."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:914
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr "Невозможно получить доступ из-за пустого кода авторизации."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:928
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr "Невозможно обновить токен доступа: новый токен не существует."
+
+#: includes/Core/Modules/Modules.php:908
+msgid "The module homepage."
+msgstr "Главная страница модуля."
+
+#: includes/Core/Modules/Modules.php:919
+msgid "Whether the module is active."
+msgstr "Активен ли модуль."
+
+#: includes/Core/Modules/Modules.php:914
+msgid "Whether the module is internal, thus without any UI."
+msgstr "Является ли модуль внутренним, без всякого UI."
+
+#: includes/Core/Modules/Modules.php:936
+msgid "List of slugs of other modules depending on the module."
+msgstr "Список ярлыков зависимых модулей."
+
+#: includes/Core/Modules/Modules.php:928
+msgid "List of slugs of other modules that the module depends on."
+msgstr "Ярлыки модулей, от которых зависит этот модуль."
+
+#: includes/Core/Util/Reset.php:222
+#: includes/Core/Authentication/Authentication.php:642
+#: includes/Core/Authentication/Authentication.php:665
+#: includes/Core/Authentication/Authentication.php:1051
+#: includes/Core/Authentication/Authentication.php:1238
+msgid "Invalid nonce."
+msgstr "Неправильный nonce."
+
+#: includes/Core/Modules/Modules.php:631
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr "Внутренняя ошибка при попытке деактивации модуля."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:626
+msgid "Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr "Не может быть выключен потому-что его зависимый модуль %s выключить не удалось."
+
+#: includes/Core/Modules/Modules.php:617
+msgid "An internal error occurred while trying to activate the module."
+msgstr "Внутренняя ошибка при попытке активировать модуль."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:613
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr "Модуль не может быть активирован из-за выключенной зависимости %s."
+
+#: includes/Core/Modules/Modules.php:687 includes/Core/Modules/Modules.php:725
+#: includes/Core/Modules/Modules.php:742 includes/Core/Modules/Modules.php:785
+#: includes/Core/Modules/Modules.php:802
+msgid "Invalid module slug."
+msgstr "Неправильный ярлык модуля."
+
+#. translators: %s: service identifier
+#: includes/Core/Modules/Module.php:717
+msgid "Google service identified by %s does not exist."
+msgstr "Google сервис для %s не существует."
+
+#: includes/Core/Modules/Module.php:705 includes/Core/Modules/Module.php:709
+msgid "Google services not set up correctly."
+msgstr "Сервисы Google не корректно настроены."
+
+#: includes/Core/Modules/Module.php:681
+msgid "Google client not set up correctly."
+msgstr "Google клиент некорректно настроен."
+
+#: includes/Modules/Site_Verification.php:352
+msgid "Verify ownership with Google Site Verification."
+msgstr "Подтвердите собственность сайта с помощью Google Site Verification."
+
+#: includes/Modules/Site_Verification.php:351
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr "Google Site Verification позволяет вам управлять подтверждением собственности на этот сайт."
+
+#: includes/Modules/Optimize.php:185
+msgid "Create free A/B tests that help you drive metric-based design solutions to your site."
+msgstr "Создавайте A/B тесты, которые помогут вам внедрять изменения на сайте на основе реальных метрик."
+
+#: includes/Modules/Tag_Manager.php:539
+msgid "Marketing Platform"
+msgstr "Маркетинговая платформа"
+
+#: includes/Modules/Tag_Manager.php:535
+msgid "Tag management made simple."
+msgstr "Простое управление метками."
+
+#: includes/Modules/AdSense.php:571
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr "Зарабатывай деньги, размещая рекламу на своем сайте. Это просто и бесплатно."
+
+#: includes/Modules/AdSense.php:481
+msgid "Invalid date range."
+msgstr "Неправильный диапазон дат."
+
+#: includes/Modules/Search_Console.php:479
+msgid "Google Search Console and helps you understand how Google views your site and optimize its performance in search results."
+msgstr "Google Search Console помогает вам понять, как Google видит ваш сайт и оптимизировать его для лучшего ранжирования в выдаче."
+
+#: includes/Modules/Search_Console.php:240
+msgid "Error adding the site to Search Console."
+msgstr "Ошибка добавления сайта в Google Search Console."
+
+#. translators: %s: Missing parameter name
+#: includes/Modules/Site_Verification.php:167
+#: includes/Modules/Search_Console.php:212
+#: includes/Modules/PageSpeed_Insights.php:85
+#: includes/Modules/Analytics.php:369 includes/Modules/Analytics.php:373
+#: includes/Modules/Analytics.php:377 includes/Modules/Analytics.php:381
+#: includes/Modules/Analytics.php:437 includes/Modules/Analytics.php:445
+#: includes/Modules/Analytics.php:456 includes/Modules/Analytics.php:467
+#: includes/Modules/Analytics.php:619 includes/Modules/Analytics.php:627
+#: includes/Modules/Analytics.php:643 includes/Modules/Analytics.php:657
+#: includes/Modules/Tag_Manager.php:261 includes/Modules/Tag_Manager.php:269
+#: includes/Modules/Tag_Manager.php:312 includes/Modules/Tag_Manager.php:320
+#: includes/Modules/Tag_Manager.php:337 includes/Modules/AdSense.php:218
+#: includes/Modules/AdSense.php:223 includes/Modules/AdSense.php:234
+#: includes/Modules/AdSense.php:244 includes/Modules/AdSense.php:330
+#: includes/Modules/AdSense.php:345 includes/Modules/AdSense.php:353
+#: includes/Modules/Analytics_4.php:207 includes/Modules/Analytics_4.php:222
+#: includes/Modules/Analytics_4.php:237 includes/Modules/Analytics_4.php:252
+#: includes/Modules/Analytics_4.php:263
+#: includes/Core/Notifications/Notifications.php:285
+#: includes/Core/Feature_Tours/REST_Feature_Tours_Controller.php:129
+msgid "Request parameter is empty: %s."
+msgstr "Пустой параметр в запросе: %s."
+
+#: includes/Modules/Analytics.php:979 includes/Modules/Analytics_4.php:315
+msgid "Get to know your customers."
+msgstr "Узнайте своих посетителей."
+
+#: includes/Modules/Analytics.php:978 includes/Modules/Analytics_4.php:314
+msgid "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "Узнайте больше о своих посетителях. Google Analytics предоставляет бесплатные инструменты, необходимые для анализа вашего бизнеса, в одном месте."
+
+#: includes/Plugin.php:86
+msgid "Meanwhile, we recommend deactivating it in the network and re-activating it for an individual site."
+msgstr "Пока мы рекомендуем деактивировать плагин в сети и активировать на отдельном сайте."
+
+#. translators: %s: module slug
+#: includes/Core/Modules/Modules.php:337 includes/Core/Modules/Modules.php:358
+#: includes/Core/Modules/Modules.php:379
+msgid "Invalid module slug %s."
+msgstr "Неправильный ярлык модуля: %s."
+
+#: includes/Core/REST_API/REST_Routes.php:280
+msgid "Text content to search for."
+msgstr "Содержимое поиска."
+
+#: includes/Core/REST_API/REST_Routes.php:178
+msgid "Missing request data."
+msgstr "Не хватает данных запроса."
+
+#: includes/Core/Modules/Modules.php:832
+msgid "Module data point to address."
+msgstr "Адрес данных модуля."
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr "Направильная точка входа."
